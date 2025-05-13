@@ -1,0 +1,1 @@
+A dedicated repository for storing and managing frontend image assets for the SINETIC platform. This includes images, and other graphical resources used across the SINETIC frontend web application interface.
